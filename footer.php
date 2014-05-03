@@ -1,6 +1,6 @@
 <style type="text/css">
 <!--
-.style1 {color: #00FF33}
+.style1 {color: #9ACD32}
 -->
 </style>
 <tr>
