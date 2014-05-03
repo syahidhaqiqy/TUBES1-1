@@ -12,12 +12,12 @@
       <tr>
         <td width="51">Nama</td>
         <td width="3">:</td>
-        <td width="222">Heru Purwito </td>
+        <td width="222">BATARA </td>
       </tr>
       <tr>
         <td>TTL</td>
         <td>:</td>
-        <td>OKU Timur, 06 Maret 1991 </td>
+        <td>Tasikmalaya, 08 Agustus 1945 </td>
       </tr>
       <tr>
         <td>Alamat</td>
